@@ -1,23 +1,19 @@
-# Hola, soy Diego Alonso Marín 👋
+<!-- Banner Profesional -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Diego%20Alonso%20Marín&fontSize=40&fontColor=ffffff" />
+</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Programador%20%26%20Futuro%20Ingeniero%20de%20Sistemas&fontSize=40&fontColor=ffffff" alt="Header" />
-</div>
+# Sobre mí
 
-### 🚀 Mi Historia
+Soy Diego Alonso Marín, desarrollador backend y futuro ingeniero de sistemas. Me especializo en el diseño e implementación de soluciones escalables con **Java Spring Boot** y en la comprensión profunda de entornos **Mainframe**, integrando tecnologías modernas con sistemas legacy.
 
-¡Bienvenido a mi perfil! Mi viaje en el mundo del desarrollo de software comenzó en **2022**. Desde ese momento, descubrí una verdadera pasión por la lógica, la arquitectura de sistemas y la resolución de problemas complejos.
-
-Soy un **estudiante de Ingeniería de Sistemas** de 20 años con una curiosidad insaciable. Lo que me diferencia es mi versatilidad: disfruto tanto creando arquitecturas modernas y escalables con **Java Spring Boot**, como sumergiéndome en la robustez y disciplina de los sistemas **Mainframe**.
-
-No solo escribo código; construyo soluciones. Actualmente, divido mi tiempo entre proyectos universitarios desafiantes, desarrollo de software personal y mi trabajo actual en un proyecto empresarial con Java Spring.
+Mi enfoque profesional combina arquitectura, rendimiento y buenas prácticas de desarrollo. Busco construir software robusto, seguro y mantenible.
 
 ---
 
-### 🛠️ Arsenal Tecnológico
+# Áreas de especialización
 
-#### ☕ Desarrollo Backend Moderno
-Especializado en el ecosistema Java para crear aplicaciones seguras y escalables.
+## Backend moderno
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
@@ -25,22 +21,21 @@ Especializado en el ecosistema Java para crear aplicaciones seguras y escalables
   <img src="https://img.shields.io/badge/API_Rest-005571?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-#### 🦖 Mainframe & Entornos Empresariales
-Habilidades especializadas para la banca y grandes corporaciones.
+## Mainframe & ecosistemas empresariales
 <p>
   <img src="https://img.shields.io/badge/COBOL-1572B6?style=for-the-badge&logo=gnu&logoColor=white" />
   <img src="https://img.shields.io/badge/JCL-000000?style=for-the-badge&logo=ibm&logoColor=white" />
   <img src="https://img.shields.io/badge/IDz_(IBM)-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
 
-#### 💾 Gestión de Datos
+## Gestión de datos
 <p>
   <img src="https://img.shields.io/badge/MySQL-00000f?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </p>
 
-#### 🔧 Herramientas & Scripting
+## Herramientas y scripting
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
@@ -49,37 +44,44 @@ Habilidades especializadas para la banca y grandes corporaciones.
 
 ---
 
-### ⚡ En qué estoy trabajando ahora
+# En qué estoy trabajando
 
-- 🔭 **Proyecto Principal:** Desarrollo de una aplicación integral en **Java Spring**, implementando patrones de diseño y seguridad avanzada.
-- 🎯 **Objetivo 2025:** Dominar la integración de sistemas Legacy (Mainframe) con arquitecturas de microservicios modernas.
-- 📚 **Aprendizaje Continuo:** Explorando nuevas librerías de Python para automatización y mejorando mis skills en administración de bases de datos.
-
----
-
-### 📈 Estadísticas de GitHub
-
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=d-alonso10&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estadísticas de Diego" />
-</a>
-<br/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-alonso10&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-</a>
-</div>
+- Desarrollo de una plataforma empresarial con **Java Spring Boot**, aplicando patrones de diseño y seguridad avanzada.  
+- Integración de sistemas legacy con arquitecturas modernas.  
+- Fortaleciendo habilidades en optimización de bases de datos y automatización.
 
 ---
 
-### 📫 Conectemos
+# Estadísticas
 
-Si te interesa colaborar en proyectos de Java, hablar sobre la modernización de sistemas Mainframe o simplemente compartir ideas sobre tecnología, ¡escríbeme!
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=d-alonso10&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=d-alonso10&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=d-alonso10&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=d-alonso10&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=d-alonso10&theme=tokyonight" />
+</p>
+
+
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=d-alonso10&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# Contacto
 
 <p align="left">
 <a href="mailto:dalonsomar10@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="www.linkedin.com/in/diego-alonso-marin-camacho-000a99322">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/diego-alonso-marin-camacho-000a99322">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
