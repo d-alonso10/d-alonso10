@@ -1,7 +1,7 @@
 # Hola, soy Diego Alonso Marín 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Programador%20%26%20Futuro%20Ingeniero%20de%20Sistemas&fontSize=30&fontColor=ffffff" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Programador%20%26%20Futuro%20Ingeniero%20de%20Sistemas&fontSize=40&fontColor=ffffff" alt="Header" />
 </div>
 
 ### 🚀 Mi Historia
